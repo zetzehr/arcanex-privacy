@@ -1,2 +1,2 @@
-# arcanex-privacy
-Privacidad de Arcanex
+# mysticae-privacy
+Privacidad de Mysticae
